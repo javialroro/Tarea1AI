@@ -43,9 +43,7 @@ Implementación manual de:
 - Implementación de **Batch Gradient Descent** con NumPy.  
 - Actualización manual de parámetros:  
 
-\[
-\theta := \theta - \alpha \cdot \nabla L(\theta)
-\]
+  θ := θ - α · ∇L(θ)
 
 - Opción de **Mini-Batch Gradient Descent** como extra.  
 
