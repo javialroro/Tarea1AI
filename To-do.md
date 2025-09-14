@@ -44,15 +44,15 @@
 ---
 
 ## ✂️ División del Dataset
-- [ ] Preparación  
-  - [ ] Definir `X` (features) y `y` (target)  
-  - [ ] Convertir categóricas a numéricas  
-  - [ ] Preparar funciones para escalado  
-  - [ ] Añadir columna de 1’s (bias)
-- [ ] Muestreo aleatorio (70/15/15)  
-  - [ ] Barajar índices  
-  - [ ] Generar splits `train/val/test`  
-  - [ ] Escalar con estadísticas del train
+- [ x] Preparación  
+  - [ x] Definir `X` (features) y `y` (target)  
+  - [ x] Convertir categóricas a numéricas  
+  - [x ] Preparar funciones para escalado  
+  - [ x] Añadir columna de 1’s (bias)
+- [ x] Muestreo aleatorio (70/15/15)  
+  - [ X] Barajar índices  
+  - [ X] Generar splits `train/val/test`  
+  - [x ] Escalar con estadísticas del train
 - [ ] Muestreo estratificado  
   - [ ] Binear *Performance Index*  
   - [ ] Dividir cada estrato en 70/15/15  
