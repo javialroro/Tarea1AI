@@ -53,11 +53,11 @@
   - [ X] Barajar índices  
   - [ X] Generar splits `train/val/test`  
   - [x ] Escalar con estadísticas del train
-- [ ] Muestreo estratificado  
-  - [ ] Binear *Performance Index*  
-  - [ ] Dividir cada estrato en 70/15/15  
-  - [ ] Escalar igual que aleatorio  
-  - [ ] Añadir bias
+- [x ] Muestreo estratificado  
+  - [ x] Binear *Performance Index*  
+  - [ x] Dividir cada estrato en 70/15/15  
+  - [ x] Escalar igual que aleatorio  
+  - [ x] Añadir bias
 - [ ] Validación de particiones  
   - [ ] Revisar tamaños de splits  
   - [ ] Comparar distribuciones de *Performance Index*  
