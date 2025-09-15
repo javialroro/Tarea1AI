@@ -58,8 +58,8 @@
   - [ x] Dividir cada estrato en 70/15/15  
   - [ x] Escalar igual que aleatorio  
   - [ x] Añadir bias
-- [ ] Validación de particiones  
-  - [ ] Revisar tamaños de splits  
+- [ x] Validación de particiones  
+  - [ x] Revisar tamaños de splits  
   - [ ] Comparar distribuciones de *Performance Index*  
 - [ ] Documentación  
   - [ ] Tabla/figura comparando aleatorio vs estratificado  
